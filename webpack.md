@@ -16,7 +16,7 @@ npm install --save-dev webpack
 ```
 2) 프로젝트 초기화
 - src/employees.js
-```javascript
+```javascript {.line-numbers}
 var employees = [ 
     { name : '홍길동', email:'gdhong@opensg.net', mobile:'010-2222-3331' },
     { name : '이몽룡', email:'mrlee@opensg.net', mobile:'010-2222-3332' },
